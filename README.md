@@ -36,12 +36,6 @@ A simple ComfyUI node that creates a white canvas for freehand drawing and autom
 - Try `Auto Run` off when making broad changes to avoid many automatic inferences.
 - Combine the Whiteboard output with other control images (depth, canny, etc.) for richer effects.
 
-**Files**
-- The whiteboard's example preview image is expected at `images/main.png`.
 
-**Support**
-If you want me to add the actual provided preview image at `images/main.png`, please upload the image here (or replace the placeholder file in `images/` with your `main.png`).
 
----
 
-License: same as the node repository (see LICENSE).
